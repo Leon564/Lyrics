@@ -1,4 +1,4 @@
-import search from './lyricsLibrary';
-export { SearchData } from './types';
+import { LyricsVerse } from "./lyricsLibrary";
+export * from "./types";
 
-export default search;
+export default LyricsVerse;
